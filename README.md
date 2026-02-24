@@ -1,5 +1,6 @@
-# 💫 About Me:
-💻 Études en cours : Bachelier en informatique orienté Télécommunications et réseaux<br><br>💸 Je construis des applications orientées finance et paiements, des sites web, des api...<br><br>📷 Passionné de photographie et de théâtre<br><br>🎨 Intéressé par l’art<br><br>💃 La danse comme équilibre hors écran<br><br>🚀 Objectif : créer des produits utiles et élégants
+# About Me:
+Computer Science student specialized in Networks & Telecommunications.
+Interested in systems, infrastructure and development, and continuously building projects to strengthen my skills.
 
 
 ## 🌐 Socials:
